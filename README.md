@@ -4,6 +4,7 @@
 
 #define MAX_STUDENTS 100
 
+
 typedef struct {
     int id;
     char name[50];
